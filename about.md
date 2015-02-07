@@ -2,11 +2,9 @@
 title: about
 layout: default
 ---
-&nbsp;
+
 
 ## Untying the Knots of your Life
-
-&nbsp;
 
 Have you ever felt like something is holding you back?
 
