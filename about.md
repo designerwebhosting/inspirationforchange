@@ -1,6 +1,6 @@
 ---
 title: about
-description: abuut
+description: about
 layout: default
 ---
 
