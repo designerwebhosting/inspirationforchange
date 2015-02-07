@@ -11,7 +11,7 @@ Ann Noble
 
 Kings Somborne,
 
-Hampshire, SO20 6NR
+Hampshire&nbsp;SO20 6NR
 
 ann@inspirationforchange.co.uk
 
