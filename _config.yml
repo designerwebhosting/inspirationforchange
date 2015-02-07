@@ -1,0 +1,15 @@
+exclude: ["Gemfile","Gemfile.lock","README.md","CNAME"]
+
+# Site settings
+title: Inspiration for change
+email: ann@inspirationforchange.co.uk
+description: "Inspiration for change."
+
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+relative_permalinks: false
