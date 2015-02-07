@@ -6,7 +6,10 @@ layout: default
 ## Contact
 
 Ann Noble
-15 Scott Close, Kings Somborne,
+
+15 Scott Close,
+
+Kings Somborne,
 
 Hampshire, SO20 6NR
 
