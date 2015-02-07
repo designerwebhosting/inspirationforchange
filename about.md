@@ -1,5 +1,6 @@
 ---
 title: about
+description: abuut
 layout: default
 ---
 
@@ -14,4 +15,4 @@ Have you been looking for something that actually works on the root of the probl
 
 Would you like to bring your life in to balance and harmony?
 
-Hi I&#39;m Ann and here at Inspiration for Change you can find the solutions you&#39;ve been looking for with colour, energy and self empowerment.
+Hi I'm Ann and here at Inspiration for Change you can find the solutions you've been looking for with colour, energy and self empowerment.
