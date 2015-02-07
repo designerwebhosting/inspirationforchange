@@ -6,15 +6,15 @@
     		<meta name="viewport" content="width=device-width, initial-scale=1">
     		<meta name="author" content="Ann Noble">
 		<link rel="shortcut icon" href="ico/favicon.ico">
-		<title>home</title>
-		<meta name="description" content="The home page for inspiration for change| Life Retuning- Utying the knots of your life.">
+		<title>{{ title }}</title>
+		<meta name="description" content="{{ site.description }}| page.description">
 
 		<link href="https://plus.google.com/116783552013073604178" rel="publisher"/>
 		<meta property="fb:admins" content="1576181120" />
 
-		<meta property="og:description" content="Through Life Retuning you will free yourselve from emotionally painfull memories, swithch off reoccuring unwanted thoughts and release yourselve from fear." />
-		<meta property="og:site_name" content="Inspiration for Change" />
-		<meta property="og:title" content="Inspiration for Change, Untying the knots in your life." />
+		<meta property="og:description" content="{{ site.description }}" />
+		<meta property="og:site_name" content="{{ site.name }}" />
+		<meta property="og:title" content="{{ site.title }}" />
 		<meta property="og:url" content="http://www.Inspirationforchange.co.uk" />
 		<meta property="og:image" content="http://www.Inspirationforchange.co.uk/images/logo.png" />
 		<meta property="og:type" content="website" />
@@ -67,12 +67,7 @@
 			<div class="container">
 	<div class="row" id="box">	
 		<div class="col-md-6"">
-			<h2>Untying the Knots of your Life</h2>
-			<p>Have you ever felt like something is holding you back?</p>
-			<p>Are your going around in circles? </p>
-			<p>Have you been looking for something that actually works on the root of the problem? </p>
-			<p>Would you like to bring your life in to balance and harmony?</p>
-			<p>Hi I'm Ann and here at Inspiration for Change you can find the solutions you've been looking for with colour, energy and self empowerment.</p>
+		       {{ content }}
 		</div>
 		<div class="col-md-3 col-md-offset-1">
 			<img src="/images/knot.jpg" alt=" Knots in our life" style="padding: 25px;">
