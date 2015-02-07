@@ -1,6 +1,6 @@
 ---
 title: contact
-description: contact
+description: How to contact Ann about changing your life with lfe retuning.
 layout: default
 ---
 ## Contact
