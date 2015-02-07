@@ -1,6 +1,7 @@
 ---
 title: heather's story
-description: heaher's testimonial about how life retuning has improved her life. 
+description: heaher's testimonial about how life retuning has improved her life.
+layout: default
 ---
 My name is Heather and I’m 50.
 
