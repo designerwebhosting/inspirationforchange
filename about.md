@@ -17,12 +17,5 @@ Would you like to bring your life in to balance and harmony?
 
 Hi I'm Ann and here at Inspiration for Change you can find the solutions you've been looking for with colour, energy and self empowerment.
 
-### Posts
-<ul>
-  {% for post in site.posts %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>{{ post.path }}
-  </li>
-  {% endfor %}
-</ul>
-{% include displayPost param="2015-02-01-heathers-testimonial.md" %}
+
+{% include displayPost param="_posts/2015-02-01-heathers-testimonial.md" %}
