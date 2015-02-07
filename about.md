@@ -21,7 +21,7 @@ Hi I'm Ann and here at Inspiration for Change you can find the solutions you've 
 <ul>
   {% for post in site.posts %}
   <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
+    <a href="{{ post.url }}">{{ post.title }}</a>{{ post.path }}
   </li>
   {% endfor %}
 </ul>
