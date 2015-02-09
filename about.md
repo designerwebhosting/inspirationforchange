@@ -1,6 +1,6 @@
 ---
-title: about
-description: about
+title: about ann noble, Akashic therapist
+description: about ann noble, Akashic therapist and how she can help you to free yourself, 
 layout: default
 ---
 
