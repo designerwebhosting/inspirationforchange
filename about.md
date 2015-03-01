@@ -4,7 +4,6 @@ description: about ann noble, Akashic therapist and how she can help you to free
 layout: default
 ---
 
-
 ## Untying the Knots of your Life
 
 Have you ever felt like something is holding you back?
