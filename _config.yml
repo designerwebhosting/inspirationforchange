@@ -5,7 +5,7 @@ exclude: ["Gemfile","Gemfile.lock","README.md","CNAME"]
 name: Inspiration for change.
 title: Inspiration for change
 email: ann@inspirationforchange.co.uk
-description: "Inspiration for change."
+description: Inspiration for change.
 
 baseurl: ""
 url: ""
