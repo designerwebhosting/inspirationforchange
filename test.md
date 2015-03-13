@@ -1,6 +1,6 @@
 ---
-title: about ann noble, Akashic therapist
-description: about ann noble, Akashic therapist and how she can help you to free yourself, 
+title: Testionials for Ann noble, Akashic therapist
+description: See what others have to say about how Ann Noble is making a differance in their lives. 
 layout: default
 ---
 
