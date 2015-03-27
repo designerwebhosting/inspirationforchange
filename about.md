@@ -1,6 +1,6 @@
 ---
-title: about ann noble, Akashic therapist
-description: about ann noble, Akashic therapist and how she can help you to free yourself, 
+title: "about ann noble, Akashic therapist"
+description: "about ann noble, Akashic therapist and how she can help you to free yourself,"
 layout: default
 ---
 
@@ -18,4 +18,7 @@ Hi I'm Ann and here at Inspiration for Change you can find the solutions you've 
 
 ## Heather's story
 
-{% include displayPost param="_posts/2015-02-01-heathers-testimonial.md" %}
+{% for post in site.posts %}
+{% if post.path == "_posts/2015-02-01-heathers-testimonial.md" %}
+{{ post.content }}{% endif %}
+{% endfor %}
