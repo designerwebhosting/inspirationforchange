@@ -1,9 +1,8 @@
 ---
 categories:
-  - post
-  - workshops
-  - energy
-tags: []
+  - {}
+tags:
+  - {}
 title: Workshops
 description: my workshops
 layout: default
