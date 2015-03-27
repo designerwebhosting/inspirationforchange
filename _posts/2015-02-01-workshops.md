@@ -2,6 +2,6 @@
 title: Workshops
 description: my workshops
 layout: default
-categories:
-tags:
+categories: {}
+tags: {'2015'}
 ---
