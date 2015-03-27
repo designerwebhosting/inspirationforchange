@@ -1,6 +1,6 @@
 ---
-title: Testionials for Ann noble, Akashic therapist
-description: See what others have to say about how Ann Noble is making a differance in their lives. 
+title: "Testionials for Ann noble, Akashic therapist"
+description: See what others have to say about how Ann Noble is making a differance in their lives.
 layout: default
 permalink: testimonials.html
 ---
