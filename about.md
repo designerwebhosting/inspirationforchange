@@ -1,7 +1,7 @@
 ---
 title: "about ann noble, Akashic therapist"
 description: "about ann noble, Akashic therapist and how she can help you to free yourself,"
-layout: default
+layout: page
 ---
 
 ## Untying the Knots of your Life
