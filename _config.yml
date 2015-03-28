@@ -2,10 +2,11 @@
 exclude: ["Gemfile","Gemfile.lock","README.md","CNAME"]
 
 # Site settings
+author; Ann Noble
 name: Inspiration for change.
 title: Inspiration for change
 email: ann@inspirationforchange.co.uk
-description: Inspiration for change.
+description: The home page for inspiration for change | Life Retuning- Utying the knots of your life.
 
 baseurl: ""
 url: ""
