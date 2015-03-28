@@ -1,6 +1,6 @@
 ---
 title: about ann noble, Akashic therapist
-description: about ann noble, Akashic therapist and how she can help you to free yourself, 
+description: Through Life Retuning you will free yourselve from emotionally painfull memories, swithch off reoccuring unwanted thoughts and release yourselve from fear.
 layout: index
 ---
 
