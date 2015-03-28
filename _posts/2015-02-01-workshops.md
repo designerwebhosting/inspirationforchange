@@ -6,5 +6,5 @@ categories:
   - ""
 title: Workshops
 description: my workshops
-layout: default
+layout: page
 ---
