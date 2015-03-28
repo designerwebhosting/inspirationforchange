@@ -9,13 +9,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="{{ site.author }}">
     <link rel="shortcut icon" href="ico/favicon.ico">
-    <title>{{ title }}</title>
-    <meta name="description" content="{{ site.description }}">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 
     <link href="https://plus.google.com/116783552013073604178" rel="publisher" />
     <meta property="fb:admins" content="1576181120" />
 
-    <meta property="og:description" content="Through Life Retuning you will free yourselve from emotionally painfull memories, swithch off reoccuring unwanted thoughts and release yourselve from fear." />
+    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
     <meta property="og:site_name" content="Inspiration for Change" />
     <meta property="og:title" content="Inspiration for Change, Untying the knots in your life." />
     <meta property="og:url" content="http://www.Inspirationforchange.co.uk" />
