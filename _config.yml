@@ -1,19 +1,16 @@
-
-exclude: ["Gemfile","Gemfile.lock","README.md","CNAME"]
-
-# Site settings
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - CNAME
 author: Ann Noble
 name: Inspiration for change.
 title: Inspiration for change
-email: ann@inspirationforchange.co.uk
-description: The home page for inspiration for change | Life Retuning- Utying the knots of your life.
-image: http://www.Inspirationforchange.co.uk/images/logo.png
-
+email: "ann@inspirationforchange.co.uk"
+description: "The home page for inspiration for change | Life Retuning- Utying the knots of your life."
+image: "http://www.Inspirationforchange.co.uk/images/logo.png"
 baseurl: ""
 url: ""
-
-# Build settings
 markdown: kramdown
 permalink: pretty
-
 relative_permalinks: false
