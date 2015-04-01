@@ -2,7 +2,7 @@
 exclude: ["Gemfile","Gemfile.lock","README.md","CNAME"]
 
 # Site settings
-author; Ann Noble
+author: Ann Noble
 name: Inspiration for change.
 title: Inspiration for change
 email: ann@inspirationforchange.co.uk
