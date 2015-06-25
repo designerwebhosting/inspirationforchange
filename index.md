@@ -2,6 +2,10 @@
 title: about ann noble, Akashic therapist
 description: Through Life Retuning you will free yourselve from emotionally painfull memories, swithch off reoccuring unwanted thoughts and release yourselve from fear.
 layout: index
+categories:
+ -
+tags:
+ -
 ---
 
 ## Untying the Knots of your Life
