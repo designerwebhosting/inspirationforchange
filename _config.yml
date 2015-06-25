@@ -8,9 +8,8 @@ name: Inspiration for change.
 title: Inspiration for change
 email: "ann@inspirationforchange.co.uk"
 description: "The home page for inspiration for change | Life Retuning- Utying the knots of your life."
-image: "http://www.Inspirationforchange.co.uk/images/logo.png"
+image: "http://www.inspirationforchange.co.uk/images/logo.png"
 baseurl: ""
 url: ""
 markdown: kramdown
 permalink: pretty
-relative_permalinks: false
