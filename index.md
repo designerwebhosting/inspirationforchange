@@ -1,5 +1,5 @@
 ---
-title: "about ann noble, Akashic therapist"
+title: "Ann Noble, Akashic therapist"
 description: "You will free yourself from emotionally painful memories, switch off reoccurring unwanted thoughts and release yourselve from fear."
 layout: index
 categories:
@@ -20,12 +20,6 @@ tags:
 
 As an Akashic therapist I work with you to untie your problems removing them at the root. In a session I use Soul Balance therapy and Colour Therapy to work a deep energetic level, helping you identify the past experiences that create your current problem.
 
- 
-
 Your current problem did not just appear it is the symptom of your past experiences. Once we identify these experiences we clear them. By clearing the source of your problem, we change the brain&#39;s perception. This in turn dissolves the current problem, as now there is nothing for the brain to generate the problem with.
 
 After all the experiences are cleared the energy will shift, bringing you back into balance and enabling you to move forwards in your life.
-
- 
-
- 
