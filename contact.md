@@ -11,6 +11,6 @@ tags:
 
 Ann Noble
 
-[ann@inspirationforchange.co.uk](javascript:void&#40;location.href=)
+[ann@inspirationforchange.co.uk](href="mailto:ann@inspirationforchange.co.uk")
 
 T: 01794 388078
