@@ -1,6 +1,6 @@
 ---
 title: "about ann noble, Akashic therapist"
-description: "Through Life Retuning you will free yourselve from emotionally painfull memories, swithch off reoccuring unwanted thoughts and release yourselve from fear."
+description: "You will free yourself from emotionally painful memories, switch off reoccurring unwanted thoughts and release yourselve from fear."
 layout: index
 categories:
   - ""
@@ -8,14 +8,24 @@ tags:
   - ""
 ---
 
-## Untying the Knots of your Life
+**Have you ever felt like something is holding you back?**
 
-Have you ever felt like something is holding you back?
+**Is your life going around in circles?**
 
-Are your going around in circles?
+**Do you want to free yourself from painful memories?**
 
-Have you been looking for something that actually works on the root of the problem?
+**Have you been looking for something that actually works on the source of the problem?**
 
-Would you like to bring your life in to balance and harmony?
+**Would you like to bring your life in to balance and harmony?**
 
-Hi I&#39;m Ann and here at Inspiration for Change you can find the solutions you&#39;ve been looking for with colour, energy and self empowerment.
+As an Akashic therapist I work with you to untie your problems removing them at the root. In a session I use Soul Balance therapy and Colour Therapy to work a deep energetic level, helping you identify the past experiences that create your current problem.
+
+ 
+
+Your current problem did not just appear it is the symptom of your past experiences. Once we identify these experiences we clear them. By clearing the source of your problem, we change the brain&#39;s perception. This in turn dissolves the current problem, as now there is nothing for the brain to generate the problem with.
+
+After all the experiences are cleared the energy will shift, bringing you back into balance and enabling you to move forwards in your life.
+
+ 
+
+ 
