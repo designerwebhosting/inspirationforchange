@@ -22,7 +22,7 @@ tags:
       <div id="collapse1" class="panel-collapse collapse">
         <div class="panel-body">
 
-<p>My name is Heather and I am 50.</p>
+<p>"My name is Heather and I am 50.</p>
 
 <p>Before going to Ann my brain was a total mess, I was unable to concentrate, I had mood swings, thoughts I didn’t want to think about and neighbours who bully.</p>
 
@@ -40,7 +40,7 @@ tags:
 
 <p>Thank you very much Ann, you’ve made me feel much better.</p>
 
-<p>From Heather</p>
+<p>From Heather"</p>
 
 
 </div>
@@ -51,13 +51,13 @@ tags:
         <h4 class="panel-title">
           <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">Magenta from Southampton</a>
         </h4>
-        <p><em>I am calm and none of the old feelings surface. I feel this (life retuning session) has been the main reason for me to be able to deal with my hospital phobia.</em></p>
+        <p><em>"I am calm and none of the old feelings surface. I feel this (life retuning session) has been the main reason for me to be able to deal with my hospital phobia."</em></p>
          <a data-toggle="collapse" data-parent="#accordion" href="#collapse2"><button class="btn btn-primary">more</button></a>
       </div>
       <div id="collapse2" class="panel-collapse collapse">
         <div class="panel-body">
 
-<p>Hi Ann, I just wanted to let you know what has been happening since our session. After our session I felt a lot better about going into hospital for my operation, it did not seem as daunting and the level of fear and anger seemed completely gone.</p>
+<p>"Hi Ann, I just wanted to let you know what has been happening since our session. After our session I felt a lot better about going into hospital for my operation, it did not seem as daunting and the level of fear and anger seemed completely gone.</p>
 
 <p>I no longer got anxious when I thought about going into the hospital. On the day of the operation I was a lot calmer than usual and even though I did get a little agitated when I was kept hanging around for a couple of hours the feelings where not to bad.</p>
 
@@ -73,7 +73,7 @@ tags:
 
 <p>I feel I will also be more prepared and less anxious about the surgeries I have to have in the future.</p>
 
-<p>For this I thank you from the depths of my soul. Magenta</p></div>
+<p>For this I thank you from the depths of my soul. Magenta"</p></div>
       </div>
     </div>
     <div class="panel panel-default">
@@ -81,13 +81,13 @@ tags:
         <h4 class="panel-title">
           <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">Micheala from Southampton</a>
         </h4>
-        <em>I have over the last three years been through the process of psycho-dynamic counselling. It has helped, I felt however that a deeper unhappiness was not being dealt with.</em></p>
+        <em>"I have over the last three years been through the process of psycho-dynamic counselling. It has helped, I felt however that a deeper unhappiness was not being dealt with."</em></p>
          <a data-toggle="collapse" data-parent="#accordion" href="#collapse3"><button class="btn btn-primary">more</button></a>
       </div>
       <div id="collapse3" class="panel-collapse collapse">
         <div class="panel-body"><p>
 
-<p><em>After two sessions (with Ann) I can honestly say I feel the release of old bonds. I can describe it as all of the shackles falling away and I am able to soar like an eagle. I feel confident that I have left my current and past life traumas behind and I am ready to live the life I deserve to live. I don't feel ashamed to be me any more and I accept myself for who I am.”</em></p>
+<p><em>"After two sessions (with Ann) I can honestly say I feel the release of old bonds. I can describe it as all of the shackles falling away and I am able to soar like an eagle. I feel confident that I have left my current and past life traumas behind and I am ready to live the life I deserve to live. I don't feel ashamed to be me any more and I accept myself for who I am.”</em></p>
 
 <p>I have over the last three years been through the process of psycho-dynamic counselling. It has helped me immensely to deal with the traumas of my life. I have also been using flower essences to assist my vibration in a gentle way with the emotional upheaval that this type of personal work uncovers.</p>
 
@@ -101,7 +101,7 @@ tags:
 
 <p>In terms of outcomes its early days but I am planning to move house, change job and start a new business venture in the next few months. I have to say I think these would have been "pipe dreams" before!</p>
 
-<p>Thank you very much Anne for your work which has benefited me more that I could ever put into words.</p></div>
+<p>Thank you very much Anne for your work which has benefited me more that I could ever put into words."</p></div>
       </div>
     </div>
   </div> 
