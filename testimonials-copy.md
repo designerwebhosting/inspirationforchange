@@ -8,7 +8,7 @@ tags:
   - menu
 ---
 
-<div class="container">
+
   <h2>Collapse</h2>
   <div class="panel-group" id="accordion">
     <div class="panel panel-default">
@@ -103,4 +103,3 @@ tags:
       </div>
     </div>
   </div> 
-</div>
