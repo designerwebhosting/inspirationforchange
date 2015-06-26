@@ -16,7 +16,7 @@ tags:
         <h4 class="panel-title">
           <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Heather from Winchester</a>
         </h4>
-        <p><em>My name is Heather, before going to Ann my brain was a total mess.....one week later, I feel like a different person, my mind is so clear. I feel brighter, happier and more relaxed.</em></p>
+        <p><em>"My name is Heather, before going to Ann my brain was a total mess.....one week later, I feel like a different person, my mind is so clear. I feel brighter, happier and more relaxed."</em></p>
         <a data-toggle="collapse" data-parent="#accordion" href="#collapse1"><button class="btn btn-primary">more</button></a>
       </div>
       <div id="collapse1" class="panel-collapse collapse">
