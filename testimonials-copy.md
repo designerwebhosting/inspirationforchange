@@ -9,7 +9,7 @@ tags:
 ---
 
 
-  <h2>Collapse</h2>
+  <h2>Testimonials</h2>
   <div class="panel-group" id="accordion">
     <div class="panel panel-default">
       <div class="panel-heading">
@@ -52,6 +52,7 @@ tags:
           <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">Magenta from Southampton</a>
         </h4>
         <p><em>I am calm and none of the old feelings surface. I feel this (life retuning session) has been the main reason for me to be able to deal with my hospital phobia.</em></p>
+         <a data-toggle="collapse" data-parent="#accordion" href="#collapse2"><button class="btn btn-primary">more</button></a>
       </div>
       <div id="collapse2" class="panel-collapse collapse">
         <div class="panel-body">
@@ -81,6 +82,7 @@ tags:
           <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">Micheala from Southampton</a>
         </h4>
         <em>I have over the last three years been through the process of psycho-dynamic counselling. It has helped, I felt however that a deeper unhappiness was not being dealt with.</em></p>
+         <a data-toggle="collapse" data-parent="#accordion" href="#collapse3"><button class="btn btn-primary">more</button></a>
       </div>
       <div id="collapse3" class="panel-collapse collapse">
         <div class="panel-body"><p>
