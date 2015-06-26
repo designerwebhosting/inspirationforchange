@@ -20,9 +20,7 @@ Would you like to bring your life in to balance and harmony?
 
 Hi I&#39;m Ann and here at Inspiration for Change you can find the solutions you&#39;ve been looking for with colour, energy and self empowerment.
 
-
-
-#### Information about a session
+### Information about a session
 
 At the appointment you will share your current problem and any areas you would like to address.
 
