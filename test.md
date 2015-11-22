@@ -7,4 +7,7 @@ tags: menu
 ---
 #test
 
-
+{% include accordion.html accordPage="_pages/heather.md" %}
+{% include accordion.html accordPage="_pages/magenta.md" %}
+{% include accordion.html accordPage="_pages/micheala.md" %}
+{: .panel-group #accordion}
