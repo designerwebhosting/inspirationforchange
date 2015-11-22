@@ -7,4 +7,8 @@ tags: menu
 ---
 #test
 
-{% include accordion.html accordPage="micheala.md" %}
+{% for page in site.pages %}
+{%  if page.path == '_pages/magenta.md' %}
+{% include panel.html  %}
+{% endif %}
+{% endfor %}
