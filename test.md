@@ -7,5 +7,5 @@ tags: menu
 ---
 #test
 
-{% include displaypage.html param="_pages/heather.md" %}
-
+{% include accordion.html accordPage="micheala.md" %}
+{: .panel-group #accordion}
