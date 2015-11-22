@@ -1,0 +1,15 @@
+{% for page in site.pages %}{% if page.path == include.accordPage %}<div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="heading-{{ include.accordPage | remove: ".md" }}">
+      <h4 class="panel-title"> 
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse-{{ include.accordPage | remove: ".md" }}" aria-expanded="false" aria-controls="collapse-{{ include.accordPage | remove: ".md" }}">
+            <b>{{ page.title }}</b>
+        </a>
+      </h4>
+      <p><em>{{ page.description }}</em></p>
+    </div>
+    <div id="collapse-{{ include.accordPage | remove: ".md" }}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading-{{ include.accordPage | remove: ".md" }}">
+      <div class="panel-body">
+        {{ page.content | markdownify }}
+      </div>
+    </div>
+</div>{% endif %}{% endfor %}
