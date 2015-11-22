@@ -8,4 +8,3 @@ tags: menu
 #test
 
 {% include accordion.html accordPage="micheala.md" %}
-{: .panel-group #accordion}
