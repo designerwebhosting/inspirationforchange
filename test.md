@@ -12,3 +12,9 @@ tags: menu
 {% include panel.html  %}
 {% endif %}
 {% endfor %}
+
+
+{% include accordion.html accordPage="heather.md" %}
+{% include accordion.html accordPage="magenta.md" %}
+{% include accordion.html accordPage="micheala.md" %}
+{: .panel-group #accordion}
