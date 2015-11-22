@@ -5,14 +5,7 @@ layout: page
 categories: blog
 tags: menu
 ---
-#test
-
-{% for page in site.pages %}
-{%  if page.path == '_pages/magenta.md' %}
-{% include panel.html  %}
-{% endif %}
-{% endfor %}
-
+#testimonials
 
 {% include accordion.html accordPage="heather.md" %}
 {% include accordion.html accordPage="magenta.md" %}
