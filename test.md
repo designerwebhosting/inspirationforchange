@@ -6,7 +6,9 @@ layout: page
 categories: blog
 tags: menu
 ---
-{% for page in site.pages %}{{ page.title  }}{% endfor %}
+{% for page in site.pages %}
+  {{ page.path  }}
+{% endfor %}
 
 {% include accordion.html accordPage="heather.md" %}
 {% include accordion.html accordPage="magenta.md" %}
