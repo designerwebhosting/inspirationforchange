@@ -7,5 +7,5 @@ tags: menu
 ---
 #test
 
-{% include accordion.html accordPage="_pages/heather.md" %}
+{% include displaypage.html param="_pages/heather.md" %}
 
