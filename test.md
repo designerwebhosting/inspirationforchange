@@ -17,4 +17,4 @@ tags: [page]
 Page
  {% for post in site.tags.page %}
             <a href="{{ post.url }}/">{{ post.title }}</a>
-        {% endfor %}
+ {% endfor %}
