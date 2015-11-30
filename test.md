@@ -6,7 +6,7 @@ categories:
 - another
 layout: default
 ---
-
+##Pages
 {% for page in site.pages %}
 {{ page }}
 {% endfor %}
