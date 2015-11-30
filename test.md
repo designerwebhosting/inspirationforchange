@@ -6,4 +6,4 @@ categories:
 - another
 ---
 
-{% for f in site.posts %}{{ f }}{% endfor %}
+{% for f in site.pages %}{{ f }}{% endfor %}
