@@ -3,16 +3,17 @@ tags: [page]
 categories: [test,another]
 ---
 
-## Articles by tag :{{ page.tags }}
+##Articles by tag :{{ page.tags }}
 
- {% for p in site.tags %}
-  {{ p }}
- {% endfor %}
- ## categories
-{% for p in site.category %}
-  {{ p }}
- {% endfor %}
+ {% for p in site.tags.page %}
+  {{ p }}{% endfor %}
+  
+## categories
+
+{% for p in site.category.test %}
+  {{ p }}{% endfor %}
+  
 ##pages
+
 {% for p in site.pages %}
-  {{ p }}
- {% endfor %}
+  {{ p.title }}{{ p.title }}{% endfor %}
