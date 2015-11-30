@@ -23,3 +23,7 @@ As an Akashic therapist I work with you to untie your problems removing them at 
 Your current problem did not just appear it is the symptom of your past experiences. Once we identify these experiences we clear them. By clearing the source of your problem, we change the brain&#39;s perception. This in turn dissolves the current problem, as now there is nothing for the brain to generate the problem with.
 
 After all the experiences are cleared the energy will shift, bringing you back into balance and enabling you to move forwards in your life.
+
+{% for post in site.tags.front %}
+  {% include page.html %}
+{% endfor %}
