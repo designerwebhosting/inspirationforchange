@@ -1,8 +1,0 @@
----
-title: about
-description: Abput Ann Noble
-date: Wed Oct 29 2014 15:43:37 GMT-0000 (GMT)
-permalink: "/about/"
-tags: mySite-inspirationforchange.co.uk,published,page,menu
----
-<div class="c6"><div><h2 class="c5"><a name="h.oyqex7bo93ak"></a></h2></div><p class="c2"><span class="c0">Have you ever felt like something is holding you back?</span></p><p class="c2"><span class="c0">Is your life going around in circles?</span></p><p class="c2"><span class="c0">Do you want to free yourself from painful memories?</span></p><p class="c2"><span class="c0">Have you been looking for something that actually works on the source of the problem?</span></p><p class="c2"><span class="c0">Would you like to bring your life in to balance and harmony?</span></p><p class="c2"><span class="c3">As an Akashic therapist I work with you to untie your problems removing them at the root. In a session I use Soul Balance therapy and Colour Therapy to work a deep energetic level, helping you identify the past experiences that create your current problem.</span></p><p class="c2"><span class="c3">Your current problem did not just appear it is the symptom of your past experiences. Once we identify these experiences we clear them. By clearing the source of your problem, we change the brain&#39;s perception. This in turn dissolves the current problem, as now there is nothing for the brain to generate the problem with.</span></p><p class="c2"><span class="c3">After all the experiences are cleared the energy will shift, bringing you back into balance and enabling you to move forwards in your life.</span></p><div><p class="c1"><span class="c7">All about Ann Noble of Inspiration for Change.</span></p></div></div>
