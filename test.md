@@ -1,9 +1,14 @@
 ---
 tags: [page]
+categories: [test,another]
 ---
 
-<h1>Articles by tag :{{ page.tags }}</h1>
+## Articles by tag :{{ page.tags }}
 
  {% for p in site.tags %}
+  {{ p }}
+ {% endfor %}
+ ## categories
+{% for p in site.categories %}
   {{ p }}
  {% endfor %}
