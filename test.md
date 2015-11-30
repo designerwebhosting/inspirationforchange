@@ -7,4 +7,6 @@ categories:
 layout: default
 ---
 
-{% for page in site.pages %}{{ page }}{% endfor %}
+{% for page in site.pages %}
+{{ page }}
+{% endfor %}
