@@ -1,5 +1,5 @@
 ---
-tags: [page]
+tag: [page]
 ---
 
 <h1>Articles by tag :{{ page.tag }}</h1>
