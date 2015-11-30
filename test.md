@@ -1,9 +1,9 @@
 ---
 tags:
- - page
+- page
 categories:
- - test,
- - another
+- test,
+- another
 ---
 
 
