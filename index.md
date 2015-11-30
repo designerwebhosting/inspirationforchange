@@ -24,6 +24,10 @@ Your current problem did not just appear it is the symptom of your past experien
 
 After all the experiences are cleared the energy will shift, bringing you back into balance and enabling you to move forwards in your life.
 
-{% for post in site.tags.front %}
+{% for page in site.tags.front %}
+  {% include page.html %}
+{% endfor %}
+
+{% for post in site.pages %}
   {% include page.html %}
 {% endfor %}
