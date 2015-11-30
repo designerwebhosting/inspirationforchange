@@ -1,6 +1,7 @@
 ---
 tags: [page]
 categories: [test,another]
+layout: default
 ---
 
 {% assign tags_list = site.tags %}
