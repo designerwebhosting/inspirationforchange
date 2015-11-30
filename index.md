@@ -28,6 +28,3 @@ After all the experiences are cleared the energy will shift, bringing you back i
   {% include page.html %}
 {% endfor %}
 
-{% for post in site.pages %}
-  {% include page.html %}
-{% endfor %}
