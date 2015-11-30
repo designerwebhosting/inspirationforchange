@@ -8,7 +8,7 @@ layout: default
 permalink: /test/
 ---
 
-{% assign tags_list = site.categories %}
+{% assign tags_list = site.tags %}
 
 <h2 class='tag-header'>Tag List</h2>
 <ul>
