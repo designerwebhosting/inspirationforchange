@@ -8,22 +8,6 @@ tags:
   - ""
 ---
 
-**Have you ever felt like something is holding you back?**
-
-**Is your life going around in circles?**
-
-**Do you want to free yourself from painful memories?**
-
-**Have you been looking for something that actually works on the source of the problem?**
-
-**Would you like to bring your life in to balance and harmony?**
-
-As an Akashic therapist I work with you to untie your problems removing them at the root. In a session I use Soul Balance therapy and Colour Therapy to work a deep energetic level, helping you identify the past experiences that create your current problem.
-
-Your current problem did not just appear it is the symptom of your past experiences. Once we identify these experiences we clear them. By clearing the source of your problem, we change the brain&#39;s perception. This in turn dissolves the current problem, as now there is nothing for the brain to generate the problem with.
-
-After all the experiences are cleared the energy will shift, bringing you back into balance and enabling you to move forwards in your life.
-
 {% for page in site.pages %}
   {% if page.title == 'home page for inspiration for change' %}{% include page.html %}{% endif %}
 {% endfor %}
