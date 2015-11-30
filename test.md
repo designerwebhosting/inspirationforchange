@@ -6,4 +6,4 @@ categories:
 - another
 ---
 
-{{ site }}
+{% for f in site %}{{ f }}{% endfor %}
