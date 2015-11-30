@@ -12,3 +12,9 @@ tag: page
         <p>There are no posts for this tag.</p>
     {% endif %}
 </div>
+
+
+Page
+ {% for post in site.tags['page'] %}
+            <a href="{{ post.url }}/">{{ post.title }}</a>
+        {% endfor %}
