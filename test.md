@@ -1,8 +1,9 @@
 ---
-tags: [page]
+tags: 
+  - page
 categories:
-- test,
-- another
+  - test,
+  - another
 layout: default
 permalink: /test/
 ---
