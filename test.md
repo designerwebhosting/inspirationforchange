@@ -8,6 +8,4 @@ permalink: /test/
 ---
 ##Pages
 
-{% for page in site.pages %}
-{{ page }}
-{% endfor %}
+{{ site.pages[0] }}
