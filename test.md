@@ -2,10 +2,10 @@
 tags: page
 ---
 
-<h1>Articles by tag :{{ page.tag }}</h1>
+<h1>Articles by tag :{{ page.tags }}</h1>
 <div>
-    {% if site.tags[page.tag] %}
-        {% for post in site.tags[page.tag] %}
+    {% if site.tags[page.tags] %}
+        {% for post in site.tags[page.tags] %}
             <a href="{{ post.url }}/">{{ post.title }}</a>
         {% endfor %}
     {% else %}
