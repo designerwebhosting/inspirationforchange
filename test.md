@@ -9,6 +9,10 @@ categories: [test,another]
   {{ p }}
  {% endfor %}
  ## categories
-{% for p in site.categories %}
+{% for p in site.category %}
+  {{ p }}
+ {% endfor %}
+##pages
+{% for p in site.pages %}
   {{ p }}
  {% endfor %}
