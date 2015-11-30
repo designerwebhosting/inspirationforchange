@@ -6,9 +6,8 @@ categories:
  - another
 ---
 
-{% assign tags_list = site.tags %}
 
-{% for tag in tags_list %}
+{% for tag in site.tages.page %}
       
         {{ tag }}
 {% endfor %}
