@@ -20,3 +20,8 @@ defaults:
       path: '_pages'
     values:
       layout: 'page'
+  - scope:
+      path: ''
+      type: 'posts'
+    values:
+      layout: 'page'
