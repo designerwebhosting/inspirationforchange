@@ -15,18 +15,18 @@ Notes:
    -------------------------------------- */
 
 body {
-	background: #000;
+	background: #fff;
 	
 	min-height: 1318px;
 }
 
 footer {
-	background: #000;
-	color: #fff;
+	background: #fff;
+	color: #000;
 }
 
 #behind {
-	background-color: #000;
+	background-color: #fff;
 }
 
 #title h1 {
@@ -43,12 +43,12 @@ footer {
 
 #box {
 	border-style:solid;
-	border-color:#000;
+	border-color:#fff;
 	border-width: 10px;
 	margin: 5px 5px 5px 5px;
 	padding: 10px;
 	min-height: 260px;
-	background-color: #000;
+	background-color: #fff;
 }
 
 #box h2 {
@@ -58,15 +58,15 @@ footer {
 
 #features h1 {
 	border-style:solid;
-	border-color:#000;
+	border-color:#fff;
 	border-width: 10px;
 	margin: 5px 5px 5px 5px;
 	padding: 10px;
-	background-color: #000;
+	background-color: #fff;
 }
 
 #contentView {
-	background-color: #000;
+	background-color: #fff;
 
 }
 
