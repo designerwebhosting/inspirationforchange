@@ -15,14 +15,12 @@ Notes:
    -------------------------------------- */
 
 body {
-	background: #fff;
 	
 	min-height: 1318px;
 }
 
 footer {
-	background: #fff;
-	color: #000;
+	
 }
 
 #behind {
@@ -62,11 +60,11 @@ footer {
 	border-width: 10px;
 	margin: 5px 5px 5px 5px;
 	padding: 10px;
-	background-color: #fff;
+	
 }
 
 #contentView {
-	background-color: #fff;
+
 
 }
 
@@ -75,7 +73,7 @@ footer {
 }
 
 footer a {
-	color: #fff;
+	
 }
 
 #text-box {
