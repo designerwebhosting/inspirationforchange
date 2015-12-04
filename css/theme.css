@@ -43,12 +43,12 @@ footer {
 
 #box {
 	border-style:solid;
-	border-color:#8ac689;
+	border-color:#000;
 	border-width: 10px;
 	margin: 5px 5px 5px 5px;
 	padding: 10px;
 	min-height: 260px;
-	background-color: #fff;
+	background-color: #000;
 }
 
 #box h2 {
@@ -58,15 +58,15 @@ footer {
 
 #features h1 {
 	border-style:solid;
-	border-color:#8ac689;
+	border-color:#000;
 	border-width: 10px;
 	margin: 5px 5px 5px 5px;
 	padding: 10px;
-	background-color: #fff;
+	background-color: #000;
 }
 
 #contentView {
-	background-color: #ecdba1;
+	background-color: #000;
 
 }
 
