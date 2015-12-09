@@ -18,23 +18,7 @@ layout: default
             </a>
           </li>
         </ul>
-    			<img src="/images/body.png" alt="body" style="padding: 25px;">
-    			<h4>Possible knots in your life that can be successfully untied.</h4>
-    			<p>Ancestral Pattens</p>
-    			<p>Soul contracts</p>
-                <p>Past life trauma</p>
-                <p>Past life vows</p>
-                <p>Loss of self & Feeling irrational unsafe</p>
-                <p>Soul Retrieval</p>
-                <p>Anxiety, phobias and fears</p>
-                <p>Low moods, low energy</p>
-                <p>Trauma and PTSD</p>
-                <p>Overwhelming emotions</p>
-                <p>Upsetting memories</p>
-                <p>Poor body image, feeling worthless</p>
-                <p>Lack of confidence</p>
-                <p>Feeling blocked,Going round in circles</p>
-                <p>Unbalanced relationships</p>
+    			{% for page in site.pages %} {% if page.title == 'sidebar' %}{{ page.comtent }}{% endif %}{% endfor %}
             </div>
     	</div><!-- end row -->
     </div>
