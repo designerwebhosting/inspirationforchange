@@ -10,13 +10,13 @@ Learn practical tips to help cope with overwhelming emotions.
 
 
 
-Date: Saturday 14th May 2016
+**Date:** Saturday 14th May 2016
 
-Time: 10am to 3pm
+**Time:** 10am to 3pm
 
-Venue: The Snug at The Lunar Hare, Andover, SP10 3AN 
+**Venue:** The Snug at The Lunar Hare, Andover, SP10 3AN 
 
-Cost: &pound;20 per person
+**Cost:** &pound;20 per person
 
 
 
