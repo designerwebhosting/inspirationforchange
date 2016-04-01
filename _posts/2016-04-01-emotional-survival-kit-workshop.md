@@ -4,7 +4,7 @@ description:
 date: 2016-04-01 19:04
 tags: [mySite-inspirationforchange.co.uk,published]
 ---
-![](https://lh3.googleusercontent.com/LqiKoFGTbY5HA4WUocAAdSC08dzHAcdt1vpU8WrEecjgJnic7r72TOPXr7oT0jt1AByqmgj6ZPN4lJHa9Jl_bZWAnm_Q-E899GJTDuXWcGPHwRwQAzJkKgDwl4Kk33y5OKqI_g0i){:  style="width: 586.00px; height: 329.21px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" }
+![Untitled drawing.png](https://lh4.googleusercontent.com/jCHCWAkK4yys1szdxpSRC9Rqgt_oPaUP24I0u6rN8RMRP2vn6JB4y4mRAArkKdMXCUj84BLVORFQX7prh4NNkWG5r8qJykXGNKVv0qJ4ByW-i7ZOIcSFsx_aVJptp7q1b6vutPwV){:  style="width: 578.79px; height: 254.91px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" }
 
 Learn practical tips to help cope with overwhelming emotions.
 
