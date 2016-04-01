@@ -13,7 +13,7 @@ tags:
 {% endfor %}
 
 {% for post in site.posts %}
-  ## {{ post.title }}
+  <h2>{{ post.title }}</h2>
   {{ post.content}}
 {% endfor %}
 
