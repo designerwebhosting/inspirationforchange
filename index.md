@@ -11,4 +11,10 @@ tags:
 {% for page in site.pages %}
   {% if page.title == 'home page for inspiration for change' %}{% include page.html %}{% endif %}
 {% endfor %}
+
+{% for post in site.posts %}
+  ## {{ post.title }}
+  {{ post.content}}
+{% endfor %}
+
 {% include facebook.html %}
