@@ -2,8 +2,49 @@
 title: heather
 description: My name is Heather, before going to Ann my brain was a total mess.....one week later, I 
   feel like a different person, my mind is so clear. I feel brighter, happier and more relaxed.
-date: Fri Aug 07 2015 09:55:06 GMT+0100 (BST)
+date: 2015-08-07
 permalink: "/heather/"
-tags: mySite-inspirationforchange.co.uk,published,page
+tags: ["published","mySite-inspirationforchange.co.uk","page"]
 ---
-<div class="c2"><p class="c1"><span>&quot;My name is Heather and I am 50.</span></p><p class="c0"><span></span></p><p class="c1"><span>Before going to Ann my brain was a total mess, I was unable to concentrate, I had mood swings, thoughts I didn&rsquo;t want to think about and neighbours who bully.</span></p><p class="c0"><span></span></p><p class="c1"><span>I suffer terrible sleep and sleep walking. A numerous amounts of trauma from my past.</span></p><p class="c0"><span></span></p><p class="c1"><span>Today one week later,</span></p><p class="c0"><span></span></p><p class="c1"><span>I feel like a different person. My mind is so clear, I&rsquo;ve never experienced this in my life (not even counselling has made me feel like this).</span></p><p class="c0"><span></span></p><p class="c1"><span>I feel brighter, happier, relaxed, less anxious, people who upset me I don&rsquo;t think about any more.</span></p><p class="c0"><span></span></p><p class="c1"><span>I&rsquo;m loads more positive.</span></p><p class="c0"><span></span></p><p class="c1"><span>In the future I would definitely, definitely use Life Retuning again and would recommend this to my friends.&lt;/p&gt;</span></p><p class="c0"><span></span></p><p class="c1"><span>Thank you very much Ann, you&rsquo;ve made me feel much better.</span></p><p class="c0"><span></span></p><p class="c1"><span>From Heather&quot;</span></p><p class="c0"><span></span></p><p class="c0"><span></span></p></div>
+&quot;My name is Heather and I am 50.
+
+
+
+Before going to Ann my brain was a total mess, I was unable to concentrate, I had mood swings, thoughts I didn&rsquo;t want to think about and neighbours who bully.
+
+
+
+I suffer terrible sleep and sleep walking. A numerous amounts of trauma from my past.
+
+
+
+Today one week later,
+
+
+
+I feel like a different person. My mind is so clear, I&rsquo;ve never experienced this in my life (not even counselling has made me feel like this).
+
+
+
+I feel brighter, happier, relaxed, less anxious, people who upset me I don&rsquo;t think about any more.
+
+
+
+I&rsquo;m loads more positive.
+
+
+
+In the future I would definitely, definitely use Life Retuning again and would recommend this to my friends.&lt;/p&gt;
+
+
+
+Thank you very much Ann, you&rsquo;ve made me feel much better.
+
+
+
+From Heather&quot;
+
+
+
+
+
