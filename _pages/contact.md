@@ -11,7 +11,7 @@ Ann Noble
 
 &#9743; 01794 388078
 
-email: 
+email: ann@inspirationforchange.co.uk
 
 To book a session please contact me and I will arrange a date with you. Payments can be paid by Paypal.
 
