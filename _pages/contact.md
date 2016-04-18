@@ -15,5 +15,5 @@ email:
 
 To book a session please contact me and I will arrange a date with you. Payments can be paid by Paypal.
 
-
+{% include form.html %}
 
