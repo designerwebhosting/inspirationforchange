@@ -4,13 +4,19 @@ description: My name is Heather, before going to Ann my brain was a total mess..
   feel like a different person, my mind is so clear. I feel brighter, happier and more relaxed.
 date: 2015-08-07
 permalink: "/heather/"
-tags: ["published","mySite-inspirationforchange.co.uk","page"]
+tags: ["published","page","mySite-inspirationforchange.co.uk"]
+htmlHead: 
 ---
-&quot;My name is Heather and I am 50.
+
+"My name is Heather and I am 50.
 
 
 
-Before going to Ann my brain was a total mess, I was unable to concentrate, I had mood swings, thoughts I didn&rsquo;t want to think about and neighbours who bully.
+
+
+Before going to Ann my brain was a total mess, I was unable to concentrate, I had mood swings, thoughts I didn?t want to think about and neighbours who bully.
+
+
 
 
 
@@ -18,31 +24,47 @@ I suffer terrible sleep and sleep walking. A numerous amounts of trauma from my 
 
 
 
+
+
 Today one week later,
 
 
 
-I feel like a different person. My mind is so clear, I&rsquo;ve never experienced this in my life (not even counselling has made me feel like this).
+
+
+I feel like a different person. My mind is so clear, I?ve never experienced this in my life (not even counselling has made me feel like this).
 
 
 
-I feel brighter, happier, relaxed, less anxious, people who upset me I don&rsquo;t think about any more.
+
+
+I feel brighter, happier, relaxed, less anxious, people who upset me I don?t think about any more.
 
 
 
-I&rsquo;m loads more positive.
+
+
+I?m loads more positive.
 
 
 
-In the future I would definitely, definitely use Life Retuning again and would recommend this to my friends.&lt;/p&gt;
+
+
+In the future I would definitely, definitely use Life Retuning again and would recommend this to my friends.</p>
 
 
 
-Thank you very much Ann, you&rsquo;ve made me feel much better.
+
+
+Thank you very much Ann, you?ve made me feel much better.
 
 
 
-From Heather&quot;
+
+
+From Heather"
+
+
 
 
 
