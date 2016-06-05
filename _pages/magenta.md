@@ -4,9 +4,13 @@ description: I am calm and none of the old feelings surface. I feel this (life r
   has been the main reason for me to be able to deal with my hospital phobia.
 date: 2015-08-07
 permalink: "/magenta/"
-tags: ["published","mySite-inspirationforchange.co.uk","page"]
+tags: ["published","page","mySite-inspirationforchange.co.uk"]
+htmlHead: 
 ---
-&quot;Hi Ann, I just wanted to let you know what has been happening since our session. After our session I felt a lot better about going into hospital for my operation, it did not seem as daunting and the level of fear and anger seemed completely gone.
+
+"Hi Ann, I just wanted to let you know what has been happening since our session. After our session I felt a lot better about going into hospital for my operation, it did not seem as daunting and the level of fear and anger seemed completely gone.
+
+
 
 
 
@@ -14,7 +18,11 @@ I no longer got anxious when I thought about going into the hospital. On the day
 
 
 
+
+
 After surgery the promises the hospital had made where not fulfilled leaving me feeling stressed and claustrophobic, the lack of communication increased these feelings.
+
+
 
 
 
@@ -22,11 +30,17 @@ What I found most amazing is that virtually as soon as I left the hospital the f
 
 
 
-It&rsquo;s as if the stress and anger I felt at the time I was in the hospital is like a distant memory. Even though there have been a few issues after the surgery this still has not made me angry. It&rsquo;s quite scary how my mental attitude has changed when it comes to what happened and how I would have dealt with to how I did deal with it.
+
+
+It?s as if the stress and anger I felt at the time I was in the hospital is like a distant memory. Even though there have been a few issues after the surgery this still has not made me angry. It?s quite scary how my mental attitude has changed when it comes to what happened and how I would have dealt with to how I did deal with it.
 
 
 
-My recovery continues steadily and I&rsquo;m due to see the doctors in a few weeks, when I think about what it want to say to them about the care after the surgery, I am calm and none of the old feelings surface.
+
+
+My recovery continues steadily and I?m due to see the doctors in a few weeks, when I think about what it want to say to them about the care after the surgery, I am calm and none of the old feelings surface.
+
+
 
 
 
@@ -34,11 +48,17 @@ I am so pleased that you offered me the opportunity to work with you on releasin
 
 
 
+
+
 I feel I will also be more prepared and less anxious about the surgeries I have to have in the future.
 
 
 
-For this I thank you from the depths of my soul. Magenta&quot;
+
+
+For this I thank you from the depths of my soul. Magenta"
+
+
 
 
 
