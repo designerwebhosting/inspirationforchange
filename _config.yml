@@ -17,7 +17,8 @@ permalink: pretty
 
 defaults:
   - scope:
-      path: '_pages'
+      path: ''
+      type: 'pages'
     values:
       layout: 'page'
   - scope:
