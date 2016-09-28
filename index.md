@@ -16,5 +16,3 @@ tags:
   <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
   {{ post.content}}
 {% endfor %}
-
-{% include facebook.html %}
