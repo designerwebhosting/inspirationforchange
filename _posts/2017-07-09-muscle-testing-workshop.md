@@ -5,6 +5,7 @@ description: Muscle testing workshop
 **Discover the art of self muscle testing – become a human pendulum!**
 
 Would you like to talk to your subconscious? Gain answers from your body, mind and soul?
+<!--more-->
 
 This is what muscle testing can give you. Muscle testing is a form of communication allowing to
 tap in to our own wisdom and truth.
