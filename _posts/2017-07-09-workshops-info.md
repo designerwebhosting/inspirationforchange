@@ -22,7 +22,7 @@ email: ann@inspirationforchange.co.uk or send me a message.
 
 Here is the list of workshops, minimum numbers and prices.
 
-### [Chakras](){: .btn}
+### [Chakras]()
 
 Two day workshop looking at 21 chakras. Min 3 people. Price per person £160
 
