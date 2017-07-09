@@ -17,8 +17,8 @@ Physical symptoms and their link to emotional issues.
 Practical tips to deal with overwhelming emotions.
 
 You will leave with an understanding of how emotions can effect the physical body and practical,
-
 easy ways to release overwhelming emotions.
+[more](/posts/emotional-surival-kit/){: .btn}
 
 ### Walking the Mandala
 
