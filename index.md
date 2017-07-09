@@ -12,7 +12,6 @@ tags:
   {% if page.title == 'home page for inspiration for change' %}{% include page.html %}{% endif %}
 {% endfor %}
 
-{% for post in site.posts %}
+{% assign post = site.posts[0] %}
   <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-  {{ post.excerpt}}
-{% endfor %}
+  {{ post.excerpt }}
