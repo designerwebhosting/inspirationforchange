@@ -90,5 +90,5 @@ Then by being able to connect deeper you can then connect higher with source.
 We will explore each connection and the amazing feeling of you energy being supported and
 connected.
 
-[more](/posts/grounding-and-connecton-workshop/){: .btn}
+[more](/posts/grounding-and-connection-workshop/){: .btn}
 
