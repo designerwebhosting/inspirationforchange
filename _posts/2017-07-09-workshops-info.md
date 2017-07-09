@@ -22,22 +22,36 @@ email: ann@inspirationforchange.co.uk or send me a message.
 
 Here is the list of workshops, minimum numbers and prices.
 
-[Chakras](){: .btn} – Two day workshop looking at 21 chakras. Min 3 people. Price per person £160
+### [Chakras](){: .btn}
 
-[Muscle Testing](){: .btn} – One day workshop learn how to be a human pendulum Min 3 people. This workshop
+Two day workshop looking at 21 chakras. Min 3 people. Price per person £160
+
+### [Muscle Testing](){: .btn}
+
+One day workshop learn how to be a human pendulum Min 3 people. This workshop
 also counts towards the Soul Balance Therapy self healing course. Price per person £120
 
-[Walking the Mandala](){: .btn} – One day workshop a creative meditative journey. Min 3 people. Fused Glass
+### [Walking the Mandala](){: .btn} 
+
+One day workshop a creative meditative journey. Min 3 people. Fused Glass
 Mandala option price per person £120, Paper option price per person £80
 
-[Energy Workshop](){: .btn} – One day workshop learn more about your energy and what it and you can do. Min 3
+### [Energy Workshop](){: .btn}
+
+One day workshop learn more about your energy and what it and you can do. Min 3
 people. Price per person £80
 
-[Guides](){: .btn} – One day workshop learn more about your guides and their role. Min 3 people. Price per person
+### [Guides](){: .btn}
+
+One day workshop learn more about your guides and their role. Min 3 people. Price per person
 £80
 
-[Grounding and Connection](){: .btn} – One day workshop help you ground your energy deeper enhancing your
+### [Grounding and Connection](){: .btn}
+
+One day workshop help you ground your energy deeper enhancing your
 connection to source. Min 3 people. Price per person £55
 
-[Emotional Survival Kit](){: .btn} – One day workshop to provide you with some easy practical tools to help with
+### [Emotional Survival Kit](){: .btn}
+
+One day workshop to provide you with some easy practical tools to help with
 overwhelming emotions. Min 3 people. Price per person £55
