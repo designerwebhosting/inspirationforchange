@@ -16,3 +16,4 @@ We will cover where these chakras are, what they are for, how the chakras develo
 
 By connecting and understanding your chakras, you can unblock areas of your life, identify areas of your life that require healing and bring healing into those areas, and help your energy to flow enabling the body to be healthy and balanced.
 
+Chakras – Two day workshop looking at 21 chakras. Min 3 people. Price per person £160
