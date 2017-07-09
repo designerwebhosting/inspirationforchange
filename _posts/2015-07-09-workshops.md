@@ -72,11 +72,15 @@ Connect with your guides, discover more about a guides role, how they communicat
 
 they come from.
 
+[more](/posts/guides-workshop/){: .btn}
+
 ### Chakra Workshop
 
 To explore and deeply connect with 16 chakras within your energetic system.
 
 Also learn more about the chakra system and its development.
+
+[more](/posts/chakra-workshop/){: .btn}
 
 ### Grounding and Connection Workshop
 
@@ -86,5 +90,5 @@ Then by being able to connect deeper you can then connect higher with source.
 We will explore each connection and the amazing feeling of you energy being supported and
 connected.
 
-[more](/posts/chakra-workshop/){: .btn}
+[more](/posts/grounding-and-connecton-workshop/){: .btn}
 
