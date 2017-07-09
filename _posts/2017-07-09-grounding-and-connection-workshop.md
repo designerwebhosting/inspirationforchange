@@ -6,6 +6,7 @@ Join me on a journey to explore the gentle loving depths of Mother Earth.
 This workshop will help provide you with a beautiful and deep connection to Gaia's amazing love and
 strength, which in turn enables you to connect with higher frequency’s and dimensions leading you to
 source.
+<!--more-->
 
 We will cover:
 
