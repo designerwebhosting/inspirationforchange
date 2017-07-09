@@ -7,6 +7,7 @@ system.
 
 Learn more about the chakra system and its development.
 <!--more-->
+
 ---
 
 There is much more to the chakra system than just the 7 main chakras often discussed in spiritual and healing work. In this workshop we will explore and deeply connect with 16 chakras within your energetic system.
