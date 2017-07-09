@@ -26,32 +26,32 @@ Here is the list of workshops, minimum numbers and prices.
 
 Two day workshop looking at 21 chakras. Min 3 people. Price per person £160
 
-### [Muscle Testing](){: .btn}
+### [Muscle Testing]()
 
 One day workshop learn how to be a human pendulum Min 3 people. This workshop
 also counts towards the Soul Balance Therapy self healing course. Price per person £120
 
-### [Walking the Mandala](){: .btn} 
+### [Walking the Mandala]() 
 
 One day workshop a creative meditative journey. Min 3 people. Fused Glass
 Mandala option price per person £120, Paper option price per person £80
 
-### [Energy Workshop](){: .btn}
+### [Energy Workshop]()
 
 One day workshop learn more about your energy and what it and you can do. Min 3
 people. Price per person £80
 
-### [Guides](){: .btn}
+### [Guides]()
 
 One day workshop learn more about your guides and their role. Min 3 people. Price per person
 £80
 
-### [Grounding and Connection](){: .btn}
+### [Grounding and Connection]()
 
 One day workshop help you ground your energy deeper enhancing your
 connection to source. Min 3 people. Price per person £55
 
-### [Emotional Survival Kit](){: .btn}
+### [Emotional Survival Kit]()
 
 One day workshop to provide you with some easy practical tools to help with
 overwhelming emotions. Min 3 people. Price per person £55
