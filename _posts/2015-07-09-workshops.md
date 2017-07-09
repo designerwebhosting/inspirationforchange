@@ -18,6 +18,7 @@ Practical tips to deal with overwhelming emotions.
 
 You will leave with an understanding of how emotions can effect the physical body and practical,
 easy ways to release overwhelming emotions.
+
 [more](/posts/emotional-survival-kit/){: .btn}
 
 ### Walking the Mandala
@@ -52,6 +53,8 @@ rods and pendulums.
 
 By the end of the workshop you will be able to identify your own unique method of self testing.
 
+[more](/posts/walking-the-mandala/){: .btn}
+
 ### Energy Workshop
 
 This workshop is about getting in touch with your own energy, learning about it, feeling it
@@ -60,6 +63,8 @@ you to have more understanding of your self.
 
 This is workshop gives you the opportunity to be able to understand you energy in a fun and
 practical way.
+
+[more](/posts/energy-workshop/){: .btn}
 
 ### Guides
 
@@ -80,3 +85,6 @@ Exploring the depth of Mother Earth, helping you to connect to her amazing love 
 Then by being able to connect deeper you can then connect higher with source.
 We will explore each connection and the amazing feeling of you energy being supported and
 connected.
+
+[more](/posts/chakra-workshop/){: .btn}
+
