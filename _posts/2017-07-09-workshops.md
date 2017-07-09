@@ -6,7 +6,7 @@ So you've seen the seven workshops ready and waiting just for you.
 
 You know what we will be covering and your interested in learning more, so you want to know when,
 where and how much. I can let you know how much but I am hoping you can help me with the when and
-## where.
+where.
 
 This is how you can help, if you would like to do a workshop and are willing to host the workshop at your
 venue with the minimum numbers for the workshop booking in and attending, I will give you your place
