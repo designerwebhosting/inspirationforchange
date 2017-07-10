@@ -16,4 +16,4 @@ We will cover:
 You will leave with an understanding of how emotions can effect the physical body and practical,
 easy ways to release overwhelming emotions.
 
-[Book](/posts/workshop-info/){: .btn .btn-lg}
+[Book](/posts/workshops-info/){: .btn .btn-lg}
