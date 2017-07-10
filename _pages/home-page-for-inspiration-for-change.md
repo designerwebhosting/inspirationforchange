@@ -5,4 +5,20 @@ date: 2015-06-26 20:06
 permalink: "/home-page-for-inspiration-for-change/"
 tags: [mySite-inspirationforchange.co.uk,front,published,page]
 ---
-<div class="c0"><p class="c1 c2"><span class="c3">Have you ever felt like something is holding you back?</span></p><p class="c1 c2"><span class="c3">Is your life going around in circles?</span></p><p class="c1 c2"><span class="c3">Do you want to free yourself from painful memories?</span></p><p class="c1 c2"><span class="c3">Have you been looking for something that actually works on the source of the problem?</span></p><p class="c1 c2"><span class="c3">Would you like to bring your life into balance and harmony?</span></p><p class="c1 c2"><span class="c4">As an Akashic therapist I work with you to untie your problems removing them at the root.</span></p><p class="c1"><span class="c4">In a session I use Soul Balance therapy and Colour Therapy to work a deep energetic level,</span></p><p class="c1"><span class="c4">helping you identify the past experiences that create your current problem.</span></p><p class="c1"><span class="c4">Your current problem did not just appear it is the symptom of your past experiences.</span></p><p class="c1"><span class="c4">Once we identify these experiences we clear them. By clearing the source of your problem, we change the brain&#39;s perception. This in turn dissolves the current problem, as now there is nothing for the brain to generate the problem with.</span></p><p class="c1"><span class="c4">After all the experiences are cleared the energy will shift, bringing you back into balance and enabling you to move forwards in your life.</span></p></div>
+** Have you ever felt like something is holding you back? **
+
+** Is your life going around in circles? **
+
+** Do you want to free yourself from painful memories? **
+
+** Have you been looking for something that actually works on the source of the problem? **
+
+** Would you like to bring your life into balance and harmony? **
+
+I work with you to untie your problems removing them at the root.
+
+In a session I use Soul Balance therapy and Colour Therapy to work a deep energetic level, helping you identify the past experiences that create your current problem.
+
+Your current problem did not just appear it is the symptom of your past experiences. Once we identify these experiences we clear them. By clearing the source of your problem, we change the brain's perception. This in turn dissolves the current problem, as now there is nothing for the brain to generate the problem with.
+
+After all the experiences are cleared the energy will shift, bringing you back into balance and enabling you to move forwards in your life.
