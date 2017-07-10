@@ -8,7 +8,7 @@ tags:
   - ""
 ---
 {% assign s = site.posts | size %}
-{% assign col = s | minus: 1 | minus: 3 %}
+{% assign col = s | minus: 1 | minus: 0 %}
 {% assign post = site.posts[col] %}
 
   {{ post.excerpt }}
