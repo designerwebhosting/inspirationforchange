@@ -7,10 +7,11 @@ categories:
 tags:
   - ""
 ---
+{% assign s = site.posts | size %}
+{% assign col = s | minus: 1 | minus: 3 %}
+{% assign post = site.posts[col] %}
 
-{% for page in site.pages %}
-  {% if page.title == 'home page for inspiration for change' %}{% include page.html %}{% endif %}
-{% endfor %}
+  {{ post.content }}
 
 {% assign s = site.posts | size %}
 {% assign col = s | minus: 1 | minus: 0 %}
