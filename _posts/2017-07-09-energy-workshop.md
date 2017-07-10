@@ -12,3 +12,5 @@ practical way.
 
 By experiencing your energy in this way you develop a better understanding of how to use your
 energy and gain more control over your energy.
+
+[Book](/posts/workshops-info/){: .btn .btn-lg}
