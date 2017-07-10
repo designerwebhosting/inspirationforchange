@@ -22,3 +22,5 @@ called to work at higher frequencies or those called to work deeper with Gaia, o
 find balance and connection.
 
 This workshop will help you connect in a way you never have before.
+
+[Book](/posts/workshops-info/){: .btn .btn-lg}
