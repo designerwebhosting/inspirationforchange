@@ -81,7 +81,7 @@ tags:
         <h4 class="panel-title">
           <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">Micheala from Southampton</a>
         </h4>
-        <em>"I have over the last three years been through the process of psycho-dynamic counselling. It has helped, I felt however that a deeper unhappiness was not being dealt with."</em></p>
+        <p><em>"I have over the last three years been through the process of psycho-dynamic counselling. It has helped, I felt however that a deeper unhappiness was not being dealt with."</em></p>
          <a data-toggle="collapse" data-parent="#accordion" href="#collapse3"><button class="btn btn-primary">more</button></a>
       </div>
       <div id="collapse3" class="panel-collapse collapse">
