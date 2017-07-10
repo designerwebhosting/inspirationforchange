@@ -9,9 +9,9 @@ tags:
 ---
 {% assign s = site.posts | size %}
 {% assign col = s | minus: 1 | minus: 3 %}
-{% assign post = site.posts[col] %}
+{% assign post0 = site.posts[col] %}
 
-  {{ post.excerpt }}
+  {{ post0.excerpt }}
 
 {% assign s = site.posts | size %}
 {% assign col = s | minus: 1 | minus: 0 %}
