@@ -16,4 +16,4 @@ We will cover where these chakras are, what they are for, how the chakras develo
 
 By connecting and understanding your chakras, you can unblock areas of your life, identify areas of your life that require healing and bring healing into those areas, and help your energy to flow enabling the body to be healthy and balanced.
 
-[Book](/posts/workshop-info/){: .btn .btn-lg}
+[Book](/posts/workshops-info/){: .btn .btn-lg}
