@@ -2,7 +2,7 @@
 title: Workshops
 description: Workshops
 ---
-### Emotional Survival Kit
+## Emotional Survival Kit
 
 Learn practical tips to help cope with overwhelming emotions.
 
@@ -19,7 +19,7 @@ Practical tips to deal with overwhelming emotions.
 You will leave with an understanding of how emotions can effect the physical body and practical,
 easy ways to release overwhelming emotions.
 
-[more](/posts/emotional-survival-kit/){: .btn .btn-primary .btn-lg}
+[more](/posts/emotional-survival-kit/){: .btn}
 
 ### Walking the Mandala
 
@@ -53,7 +53,7 @@ rods and pendulums.
 
 By the end of the workshop you will be able to identify your own unique method of self testing.
 
-[more](/posts/walking-the-mandala/){: .btn .btn-primary .btn-lg}
+[more](/posts/walking-the-mandala/){: .btn}
 
 ### Energy Workshop
 
@@ -64,7 +64,7 @@ you to have more understanding of your self.
 This is workshop gives you the opportunity to be able to understand you energy in a fun and
 practical way.
 
-[more](/posts/energy-workshop/){: .btn .btn-primary .btn-lg}
+[more](/posts/energy-workshop/){: .btn}
 
 ### Guides
 
@@ -72,7 +72,7 @@ Connect with your guides, discover more about a guides role, how they communicat
 
 they come from.
 
-[more](/posts/guides-workshop/){: .btn .btn-primary .btn-lg}
+[more](/posts/guides-workshop/){: .btn}
 
 ### Chakra Workshop
 
@@ -80,7 +80,7 @@ To explore and deeply connect with 16 chakras within your energetic system.
 
 Also learn more about the chakra system and its development.
 
-[more](/posts/chakra-workshop/){: .btn .btn-primary .btn-lg}
+[more](/posts/chakra-workshop/){: .btn}
 
 ### Grounding and Connection Workshop
 
@@ -90,5 +90,5 @@ Then by being able to connect deeper you can then connect higher with source.
 We will explore each connection and the amazing feeling of you energy being supported and
 connected.
 
-[more](/posts/grounding-and-connection-workshop/){: .btn .btn-primary .btn-lg}
+[more](/posts/grounding-and-connection-workshop/){: .btn}
 
