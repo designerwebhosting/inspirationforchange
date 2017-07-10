@@ -25,3 +25,5 @@ Having the skill of self muscle testing is a wonderful as it can help you commun
 yourself on a whole other level.
 Muscle testing can help with choosing foods, the route home, what you wear for an interview,
 indecision, to helping you identify self limiting beliefs and checking the health of your chakras.
+
+[Book](/posts/workshops-info/){: .btn .btn-lg}
