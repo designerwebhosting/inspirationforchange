@@ -2,7 +2,7 @@
 title: Workshops
 description: Workshops
 ---
-## Emotional Survival Kit
+### Emotional Survival Kit
 
 Learn practical tips to help cope with overwhelming emotions.
 
@@ -19,7 +19,7 @@ Practical tips to deal with overwhelming emotions.
 You will leave with an understanding of how emotions can effect the physical body and practical,
 easy ways to release overwhelming emotions.
 
-[more](/posts/emotional-survival-kit/){: .btn}
+[more](/posts/emotional-survival-kit/){: .btn .btn-primary }
 
 ### Walking the Mandala
 
