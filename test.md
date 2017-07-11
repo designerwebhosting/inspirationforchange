@@ -5,7 +5,7 @@ layout: index
 categories:
 tags:
 ---
-{% for row in site.data.layout.index %}
+{% for row in site.data.layouts.index %}
 
 {% assign s = site.posts | size %}
 {% assign x = row.row | size %}
