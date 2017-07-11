@@ -1,3 +1,3 @@
 # [inspiration for change](http://inspirationforchange.co.uk)
 
-Website of Ann Noble, Akasic therapist.
+Website of Ann Nobl.
