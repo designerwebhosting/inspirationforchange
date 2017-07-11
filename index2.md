@@ -8,20 +8,6 @@ tags:
   - ""
 ---
 
-{% for row in site.data.stories %}
-     
-      
-        {% assign s = site.posts | size %}
-        {% assign x = row.row | size %}
-        {% assign columns = 12 | divided_by: x %}
-        {% for c in row.row %}
-        {% assign col = s | minus: 1 | minus: c.story %}
-        {% if c.title == true %}
-        title
-        {% endif %}
-        {{ post.excerpt }}
-
-{% endfor %}
 
 
 {% assign s = site.posts | size %}
