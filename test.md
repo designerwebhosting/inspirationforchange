@@ -6,8 +6,20 @@ categories:
 tags:
 ---
 {% for row in site.data.layout.index %}
-{{ row }}
----
+
+{% assign s = site.posts | size %}
+{% assign x = row.row | size %}
+{% assign columns = 12 | divided_by: x %}
+{% for c in row.row %}
+{% assign col = s | minus: 1 | minus: c.story %}
+{% assign post = site.posts[col] %}
+{% if c.title == true %}
+title
+{% endif %}
+{{ post.excerpt }}
+{% endfor %}
+
+
 {% endfor %}
 
 
