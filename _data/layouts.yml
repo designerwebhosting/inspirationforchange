@@ -7,7 +7,7 @@ index:
       hd-color: white
       image: false
       class: 
-      type: card
+      type: excerpt
       
   - row:
     - story: 1
@@ -17,4 +17,4 @@ index:
       hd-color: white
       image: false
       class: 
-      type: card  
+      type: excerpt  
