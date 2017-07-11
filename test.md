@@ -6,7 +6,7 @@ categories:
 tags:
 ---
 {% for row in site.data.layouts.index %}
-
+<div>
 {% assign s = site.posts | size %}
 {% assign x = row.row | size %}
 {% assign columns = 12 | divided_by: x %}
@@ -18,11 +18,5 @@ tags:
 {% endif %}
 {{ post.excerpt }}
 {% endfor %}
-
-
+</div>
 {% endfor %}
-
-
-
-
-
