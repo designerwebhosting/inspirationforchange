@@ -2,6 +2,7 @@ index:
   - row:
     - story: 2
       link: true
+      title: false
       bk-color: white
       hd-color: white
       image: false
@@ -11,6 +12,7 @@ index:
   - row:
     - story: 0
       link: false
+      title: true
       bk-color: white
       hd-color: white
       image: false
