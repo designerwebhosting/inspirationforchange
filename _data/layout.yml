@@ -1,0 +1,18 @@
+index:
+  - row:
+    - story: 2
+      link: true
+      bk-color: white
+      hd-color: white
+      image: false
+      class: 
+      type: card
+      
+  - row:
+    - story: 0
+      link: false
+      bk-color: white
+      hd-color: white
+      image: false
+      class: 
+      type: card  
