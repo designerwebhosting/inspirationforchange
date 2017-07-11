@@ -6,7 +6,6 @@ categories:
 tags:
 ---
 {% for row in site.data.layout.index %}
-
 {{ row }}
 ---
 {% endfor %}
