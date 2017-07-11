@@ -1,6 +1,6 @@
 index:
   - row:
-    - story: 1
+    - story: 0
       link: true
       title: false
       bk-color: white
@@ -10,7 +10,7 @@ index:
       type: card
       
   - row:
-    - story: 0
+    - story: 1
       link: false
       title: true
       bk-color: white
