@@ -17,7 +17,7 @@ tags:
         {% for c in row.row %}
         {% assign col = s | minus: 1 | minus: c.story %}
         {% if c.title == true %}
-## {{ site.posts[col] }}        
+        title
         {% endif %}
         {{ post.excerpt }}
 
