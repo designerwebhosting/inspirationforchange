@@ -38,7 +38,7 @@ Lack of confidence
 
 Feeling blocked,Going round in circles
 
-{: .list-group}
+
 - Unbalanced relationships{: .list-item}
 
 [Book an appointment](/contact/){: .btn .btn-success}
