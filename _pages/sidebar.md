@@ -10,9 +10,8 @@ tags: [page,mySite-inspirationforchange.co.uk,published]
 
 #### The knots in your life that could &nbsp;be successfully untied.
 
-Ancestral Patterns
-
 {: .list-group}
+- {: .list-item} Ancestral Patterns
 - {: .list-item} Soul contracts
 - {: .list-item} Past life trauma
 - {: .list-item} Past life vowss
