@@ -11,21 +11,21 @@ tags: [page,mySite-inspirationforchange.co.uk,published]
 #### The knots in your life that could &nbsp;be successfully untied.
 
 {: .list-group}
-- {: .list-item} Ancestral Patterns
-- {: .list-item} Soul contracts
-- {: .list-item} Past life trauma
-- {: .list-item} Past life vowss
-- {: .list-item} Loss of self &amp; Feeling irrational unsafe
-- {: .list-item} Soul Retrieval
-- {: .list-item} Anxiety, phobias and fears
-- {: .list-item} Low moods, low energy
-- {: .list-item} Trauma and PTSD
-- {: .list-item} Overwhelming emotions
-- {: .list-item} Upsetting memories
-- {: .list-item} Poor body image, feeling worthless 
-- {: .list-item} Lack of confidence
-- {: .list-item} Feeling blocked,Going round in circles
-- {: .list-item} Unbalanced relationships
+- {: .list-group-item} Ancestral Patterns
+- {: .list-group-item} Soul contracts
+- {: .list-group-item} Past life trauma
+- {: .list-group-item} Past life vowss
+- {: .list-group-item} Loss of self &amp; Feeling irrational unsafe
+- {: .list-group-item} Soul Retrieval
+- {: .list-group-item} Anxiety, phobias and fears
+- {: .list-group-item} Low moods, low energy
+- {: .list-group-item} Trauma and PTSD
+- {: .list-group-item} Overwhelming emotions
+- {: .list-group-item} Upsetting memories
+- {: .list-group-item} Poor body image, feeling worthless 
+- {: .list-group-item} Lack of confidence
+- {: .list-group-item} Feeling blocked,Going round in circles
+- {: .list-group-item} Unbalanced relationships
 
 [Book an appointment](/contact/){: .btn .btn-success}
 
