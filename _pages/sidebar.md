@@ -5,4 +5,40 @@ date: 2015-12-09 10:12
 permalink: "/sidebar/"
 tags: [page,mySite-inspirationforchange.co.uk,published]
 ---
-<div class="c1"><h4 class="c3"><a name="h.2nvg9ez6vj8d"></a><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 200.00px; height: 220.00px;"><img alt="" src="https://lh4.googleusercontent.com/8f_MtkI5yZRIlSRwzk8YJuKr3SCgmGRUr6BVQaHkpeOchmFFVm3q_dfgDea-AoE92rPMic56b3kKkJsXUC7Hu0fJl1or2r5z8bcRxVt0dJ6JVYpjDY8oo7Y4MQwyeILt8k7EF9jH" style="width: 200.00px; height: 220.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></h4><h4 class="c3"><a name="h.f9lp64fzxng7"></a><span class="c4">The knots in your life that could &nbsp;be successfully untied.</span></h4><p class="c2"><span class="c0">Ancestral Patterns</span></p><p class="c2"><span class="c0">Soul contracts</span></p><p class="c2"><span class="c0">Past life trauma</span></p><p class="c2"><span class="c0">Past life vows</span></p><p class="c2"><span class="c0">Loss of self &amp; Feeling irrational unsafe</span></p><p class="c2"><span class="c0">Soul Retrieval</span></p><p class="c2"><span class="c0">Anxiety, phobias and fears</span></p><p class="c2"><span class="c0">Low moods, low energy</span></p><p class="c2"><span class="c0">Trauma and PTSD</span></p><p class="c2"><span class="c0">Overwhelming emotions</span></p><p class="c2"><span class="c0">Upsetting memories</span></p><p class="c2"><span class="c0">Poor body image, feeling worthless</span></p><p class="c2"><span class="c0">Lack of confidence</span></p><p class="c2"><span class="c0">Feeling blocked,Going round in circles</span></p><p class="c2"><span class="c0">Unbalanced relationships</span></p><p class="c6"><span class="c5"><a href="/contact/" class="btn btn-success" rollapp-href="/contact/">Book an appointment</a><br></span></p><p class="c2 c7"><span class="c5"></span></p><p class="c2 c7"><span class="c0"></span></p><p class="c7 c8"><span></span></p></div>
+
+![knots in your life ](https://lh4.googleusercontent.com/8f_MtkI5yZRIlSRwzk8YJuKr3SCgmGRUr6BVQaHkpeOchmFFVm3q_dfgDea-AoE92rPMic56b3kKkJsXUC7Hu0fJl1or2r5z8bcRxVt0dJ6JVYpjDY8oo7Y4MQwyeILt8k7EF9jH){: style="width: 200.00px; height: 220.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"}
+
+#### The knots in your life that could &nbsp;be successfully untied.
+
+Ancestral Patterns
+
+Soul contracts
+
+Past life trauma
+
+Past life vowss
+
+Loss of self &amp; Feeling irrational unsafe
+
+Soul Retrieval
+
+Anxiety, phobias and fears
+
+Low moods, low energy
+
+Trauma and PTSD
+
+Overwhelming emotions
+
+Upsetting memories
+
+Poor body image, feeling worthless
+
+Lack of confidence
+
+Feeling blocked,Going round in circles
+
+Unbalanced relationships
+
+[Book an appointment](/contact/){: .btn .btn-success}
+
