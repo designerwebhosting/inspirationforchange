@@ -26,6 +26,4 @@ tags: [page,mySite-inspirationforchange.co.uk,published]
 - {: .list-group-item} Lack of confidence
 - {: .list-group-item} Feeling blocked,Going round in circles
 - {: .list-group-item} Unbalanced relationships
-
-[Book an appointment](/contact/){: .btn .btn-success}
-
+- {: .list-group-item list-group-item-success} [Book an appointment](/contact/)
