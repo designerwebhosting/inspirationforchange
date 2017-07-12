@@ -13,20 +13,34 @@ tags: [page,mySite-inspirationforchange.co.uk,published]
 Ancestral Patterns
 
 {: .list-group}
-- Soul contracts{: .list-item}
-- Past life trauma{: .list-item}
-- Past life vowss{: .list-item}
-- Loss of self &amp; Feeling irrational unsafe{: .list-item}
-- Soul Retrieval{: .list-item}
-- Anxiety, phobias and fears{: .list-item}
-- Low moods, low energy{: .list-item}
-- Trauma and PTSD{: .list-item}
-- Overwhelming emotions{: .list-item}
-- Upsetting memories{: .list-item}
-- Poor body image, feeling worthless{: .list-item}
-- Lack of confidence{: .list-item}
-- Feeling blocked,Going round in circles{: .list-item}
-- Unbalanced relationships{: .list-item}
+- Soul contracts
+{: .list-item}
+- Past life trauma
+{: .list-item}
+- Past life vowss
+{: .list-item}
+- Loss of self &amp; Feeling irrational unsafe
+{: .list-item}
+- Soul Retrieval
+{: .list-item}
+- Anxiety, phobias and fears
+{: .list-item}
+- Low moods, low energy
+{: .list-item}
+- Trauma and PTSD
+{: .list-item}
+- Overwhelming emotions
+{: .list-item}
+- Upsetting memories
+{: .list-item}
+- Poor body image, feeling worthless
+{: .list-item}
+- Lack of confidence
+{: .list-item}
+- Feeling blocked,Going round in circles
+{: .list-item}
+- Unbalanced relationships
+{: .list-item}
 
 [Book an appointment](/contact/){: .btn .btn-success}
 
