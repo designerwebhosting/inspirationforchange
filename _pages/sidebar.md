@@ -13,7 +13,7 @@ tags: [page,mySite-inspirationforchange.co.uk,published]
 Ancestral Patterns
 
 {: .list-group}
-- Soul contracts    {: .list-item}
+- {: .list-item} Soul contracts   
 - Past life trauma    {: .list-item}
 - Past life vowss  {: .list-item}
 - Loss of self &amp; Feeling irrational unsafe    {: .list-item}
