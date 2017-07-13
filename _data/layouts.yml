@@ -29,3 +29,34 @@ sidebar:
       image: false
       class: 
       type: excerpt
+
+testimonials:
+  - row:
+    - story: 2
+      link: false
+      title: false
+      bk-color: white
+      hd-color: white
+      image: false
+      class: 
+      type: excerpt
+      
+  - row:
+    - story: 3
+      link: false
+      title: false
+      bk-color: white
+      hd-color: white
+      image: false
+      class: 
+      type: excerpt
+      
+  - row:
+    - story: 4
+      link: false
+      title: false
+      bk-color: white
+      hd-color: white
+      image: false
+      class: 
+      type: excerpt
