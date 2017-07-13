@@ -1,10 +1,7 @@
 ---
 layout: default
 ---
-
-
-
-    <div class="container">
+   <div class="container">
     	<div class="row" id="box">
     	     <div class="col-md-6"">
     			{{ content }}
@@ -17,16 +14,13 @@ layout: default
               <i class="fa fa-facebook fa-2x"></i>
             </a>
           </li>
-        </ul>
-         <!---->{% for row in site.data.layouts.sidebar %}
+        </ul>{% for row in site.data.layouts.sidebar %}
 {% assign s = site.posts | size %}{% assign x = row.row | size %}{% assign columns = 12 | divided_by: x %}{% for c in row.row %}
 {% assign col = s | minus: 1 | minus: c.story %}{% assign post = site.posts[col] %}
 {% if c.title == true %}{% if c.link == true %}<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>{% else %}<h2>{{ post.title }}</h2>{% endif %}{% endif %}
 {{ post[c.type] }}
 {% endfor %}
 {% endfor %}                                    
-                                             </div>
+          </div>
     	</div><!-- end row -->
     </div>
-
-
