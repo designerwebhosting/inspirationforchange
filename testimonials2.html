@@ -8,7 +8,7 @@ tags:
 
 
   <h2>{{ title }}</h2>
-  <div class="panel-group" id="accordion">
+  <div class="panel-group" id="accordion">{% for row in site.data.layouts.testimonals %}{% assign s = site.posts | size %}{% assign x = row.row | size %}{% assign columns = 12 | divided_by: x %}{% for c in row.row %}{% assign col = s | minus: 1 | minus: c.story %}{% assign post = site.posts[col] %}
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
@@ -22,7 +22,7 @@ tags:
           {{ c.content }}
         </div>
       </div>
-    </div>
+    </div>{% endfor %}
   </div>  
       
     
