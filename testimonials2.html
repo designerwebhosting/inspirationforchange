@@ -15,14 +15,14 @@ tags:
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#accordion" href="#collapse{{ forloop.index }}">{{ c.title }}</a>
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse{{ forloop.index }}">{{ post.title }}</a>
         </h4>
         <p><em>"{{c.excerpt}}"</em></p>
         <a data-toggle="collapse" data-parent="#accordion" href="#collapse{{ forloop.index }}"><button class="btn btn-primary">more</button></a>
       </div>
       <div id="collapse1" class="panel-collapse collapse">
         <div class="panel-body">
-          {{ c.content }}
+          {{ post.content }}
         </div>
       </div>
     </div>{% endfor %}
