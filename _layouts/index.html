@@ -19,7 +19,14 @@ layout: default
           </li>
         </ul>
     	{% for page in site.pages %}{% if page.title == 'sidebar' %}{{ page.content | markdownify }}{% endif %}{% endfor %}
-            </div>
+         <!---->{% for row in site.data.layouts.sidebar %}
+{% assign s = site.posts | size %}{% assign x = row.row | size %}{% assign columns = 12 | divided_by: x %}{% for c in row.row %}
+{% assign col = s | minus: 1 | minus: c.story %}{% assign post = site.posts[col] %}
+{% if c.title == true %}{% if c.link == true %}<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>{% else %}<h2>{{ post.title }}</h2>{% endif %}{% endif %}
+{{ post[c.type] }}
+{% endfor %}
+{% endfor %}                                    
+                                             </div>
     	</div><!-- end row -->
     </div>
 
