@@ -18,3 +18,14 @@ index:
       image: false
       class: 
       type: excerpt  
+      
+sidebar:
+  - row:
+    - story: 0
+      link: false
+      title: false
+      bk-color: white
+      hd-color: white
+      image: false
+      class: 
+      type: excerpt
