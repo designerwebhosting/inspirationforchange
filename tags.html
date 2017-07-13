@@ -54,7 +54,7 @@ permalink: /tags/
 
 <div>{% for post in site.posts %}
 <div>
-<a href="{{ post.url }}"><h2>{{ forloop.index0 }} - {{ post.title }}</h2></a>
+<a href="{{ post.url }}"><h2>{{ forloop.rindex0 }} - {{ post.title }}</h2></a>
 <p>{{ post.description }}</p>
 </div>
 <hr />{% endfor %}
