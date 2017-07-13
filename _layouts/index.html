@@ -18,7 +18,6 @@ layout: default
             </a>
           </li>
         </ul>
-    	{% for page in site.pages %}{% if page.title == 'sidebar' %}{{ page.content | markdownify }}{% endif %}{% endfor %}
          <!---->{% for row in site.data.layouts.sidebar %}
 {% assign s = site.posts | size %}{% assign x = row.row | size %}{% assign columns = 12 | divided_by: x %}{% for c in row.row %}
 {% assign col = s | minus: 1 | minus: c.story %}{% assign post = site.posts[col] %}
