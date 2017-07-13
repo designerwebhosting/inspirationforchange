@@ -41,7 +41,6 @@ testimonials:
       class: 
       type: excerpt
       
-  - row:
     - story: 3
       link: false
       title: false
@@ -51,7 +50,6 @@ testimonials:
       class: 
       type: excerpt
       
-  - row:
     - story: 4
       link: false
       title: false
