@@ -32,6 +32,15 @@ sidebar:
 
 testimonials:
   - row:
+    - story: 5
+      link: false
+      title: false
+      bk-color: white
+      hd-color: white
+      image: false
+      class: 
+      type: excerpt
+      
     - story: 2
       link: false
       title: false
@@ -41,16 +50,7 @@ testimonials:
       class: 
       type: excerpt
       
-    - story: 3
-      link: false
-      title: false
-      bk-color: white
-      hd-color: white
-      image: false
-      class: 
-      type: excerpt
-      
-    - story: 4
+    - story: 1
       link: false
       title: false
       bk-color: white
