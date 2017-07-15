@@ -2,9 +2,8 @@
 title: Micheala from Southampton
 description: I have over the last three years been through the process of psycho-dynamic counselling. It 
   has helped, I felt however that a deeper unhappiness was not being dealt with.
-date: 2015-08-07
 permalink: "/micheala/"
-tags: ["published","page","mySite-inspirationforchange.co.uk"]
+tags: 
 htmlHead: 
 ---
 After two sessions (with Ann) I can honestly say I feel the release of old bonds. I can describe it as all of the shackles falling away and I am able to soar like an eagle. I feel confident that I have left my current and past life traumas behind and I am ready to live the life I deserve to live. I don't feel ashamed to be me any more and I accept myself for who I am.
