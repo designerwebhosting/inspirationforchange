@@ -1,7 +1,6 @@
 ---
 title: about
 description: About Ann Noble
-date: 2014-10-29
 permalink: "/about/"
 tags:
 ---
