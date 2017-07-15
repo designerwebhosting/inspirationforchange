@@ -3,8 +3,7 @@ title: about
 description: About Ann Noble
 date: 2014-10-29
 permalink: "/about/"
-tags: ["published","page","mySite-inspirationforchange.co.uk","menu"]
-htmlHead: 
+tags:
 ---
 
 **Have you ever felt like something is holding you back?**
