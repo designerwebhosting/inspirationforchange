@@ -1,8 +1,7 @@
 ---
 title: home page 
 description: You will free yourself from emotionally painful memories, switch off reoccurring unwanted thoughts and release yourselve from fear.
-date: 2015-06-26 20:06
-tags: [mySite-inspirationforchange.co.uk,front,published,page]
+tags: 
 ---
 **Have you ever felt like something is holding you back?**
 
