@@ -3,7 +3,7 @@ exclude:
   - Gemfile.lock
   - README.md
   - CNAME
-include: ["_pages"]
+
 author: Ann Noble
 name: Inspiration for change.
 title: Inspiration for change
@@ -28,3 +28,7 @@ defaults:
     values:
       layout: 'post'
       permalink: "/posts/:title/"
+
+social:
+  - name: facebook
+    url: https://facebook.com
