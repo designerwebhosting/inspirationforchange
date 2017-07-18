@@ -1,6 +1,6 @@
 ---
-title: Workshops
-description: Workshops
+title: Book a workshop
+description: Book a workshop
 ---
 So you've seen the seven workshops ready and waiting just for you.
 
@@ -16,9 +16,9 @@ If a group over the minimum numbers would like to do a workshop at my venue in C
 as a group book and pay in one go, I will give a workshop place free to that group. This means someone
 can have a free place or you all enjoy a discount.
 
-When? Lets have a chat, check our diaries and arrange a date. Contact details: phone 01794 388078,
+When? Lets have a chat, check our diaries and arrange a date. Contact details: phone [+44-1794-388078](tel:+44-1794-388078),
 
-email: ann@inspirationforchange.co.uk or send me a message.
+email: [ann@inspirationforchange.co.uk](mailto:ann@inspirationforchange.co.uk?subject=workshop) or send me a message.
 
 Here is the list of workshops, minimum numbers and prices.
 
