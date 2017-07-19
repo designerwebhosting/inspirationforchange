@@ -33,3 +33,5 @@ defaults:
 social:
   - name: facebook
     url: "https://facebook.com/soulbalancetherapy"
+  - name: rss
+    url: "/feed.xml"
