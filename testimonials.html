@@ -1,25 +1,8 @@
 ---
 title: "Testimonials"
 description: See what others have to say about how Ann Noble is making a differance in their lives.
-layout: page
+layout: post
 categories:
 tags:
 ---
-  <h2>{{ page.title }}</h2>
-  <div class="panel-group" id="accordion">{% for row in site.data.layouts.testimonials %}{% assign s = site.posts | size %}{% assign x = row.row | size %}{% assign columns = 12 | divided_by: x %}{% for c in row.row %}{% assign col = s | minus: 1 | minus: c.story %}{% assign post = site.posts[col] %}
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#accordion" href="#collapse{{ forloop.index }}">{{ post.title }}</a>
-        </h4>
-        <p><em>"{{ post.description }}"</em></p>
-        <a data-toggle="collapse" data-parent="#accordion" href="#collapse{{ forloop.index }}"><button class="btn btn-primary">more</button></a>
-      </div>
-      <div id="collapse{{ forloop.index }}" class="panel-collapse collapse">
-        <div class="panel-body">
-          {{ post.content }}
-        </div>
-      </div>
-    </div>{% endfor %}{% endfor %}
-  </div>  
 {% include testimonials.html %}
