@@ -8,12 +8,12 @@ layout: default
     	     </div>
     	     <div class="col-md-4 col-md-offset-1">
     	     <h4>Follow the conversation</h3>
-          <ul class="nav nav-pills">
+          <ul class="nav nav-pills">{% for social in site.social %}
           <li>
-            <a class="btn btn-social-icon btn-facebook" href="https://facebook.com/inspirationforchange">
-              <i class="fa fa-facebook fa-2x"></i>
+            <a class="btn btn-social-icon btn-{{ social.name }}" href="{{ social.url }}">
+              <i class="fa fa-{{ social.name }} fa-2x"></i>
             </a>
-          </li>
+          </li>{% endfor %}
         </ul>{% for row in site.data.layouts.sidebar %}
 {% assign s = site.posts | size %}{% assign x = row.row | size %}{% assign columns = 12 | divided_by: x %}{% for c in row.row %}
 {% assign col = s | minus: 1 | minus: c.story %}{% assign post = site.posts[col] %}
