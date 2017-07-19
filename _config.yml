@@ -2,6 +2,9 @@ exclude:
   - README.md
   - CNAME
 
+gems:
+  - jekyll-feed
+  
 author: Ann Noble
 name: Inspiration for change.
 title: Inspiration for change
