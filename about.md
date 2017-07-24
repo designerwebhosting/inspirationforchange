@@ -1,8 +1,8 @@
 ---
 title: about
-description: About Ann Noble
-permalink: "/about/"
-tags:
+description: About Ann Noble.
+tags: null
+permalink: /about/
 ---
 
 **Have you ever felt like something is holding you back?**
@@ -31,3 +31,4 @@ After all the experiences are cleared the energy will shift, bringing you back i
 
 
 {:  style="font-size:10px;line-height:1.4285714285714286;background-color:#ffffff;margin-bottom:8px;color:#333333;font-family:Georgia;"}
+
