@@ -29,6 +29,16 @@ sidebar:
       image: false
       class: 
       type: excerpt
+      
+  - row:
+    - story: 4
+      link: false
+      title: true
+      bk-color: white
+      hd-color: white
+      image: false
+      class: 
+      type: excerpt
 
 testimonials:
   - row:
